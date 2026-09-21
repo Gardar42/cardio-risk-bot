@@ -25,7 +25,7 @@ train_model.ipynb содержит весь путь от сырых данны�
 ├── llm.py
 ├── bot.py
 ├── requirements.txt
-└── .env.example
+└── .env
 ```
 
 ## Результаты
